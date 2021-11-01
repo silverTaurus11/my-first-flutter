@@ -1,5 +1,7 @@
 # my_first_flutter
 
+Android and IOS only.
+
 Features:
 - Firebase Analyticals
 - Firebase Crashlytics

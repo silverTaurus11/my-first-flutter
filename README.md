@@ -1,6 +1,15 @@
 # my_first_flutter
 
-A new Flutter project.
+Features:
+- Firebase Analyticals
+- Firebase Crashlytics
+- Firebase Messaging
+- Local Notification
+- Floor Database 
+- Retrofit
+- RxDart
+- Lottie
+- Json and Shared Preferences
 
 ## Getting Started
 
